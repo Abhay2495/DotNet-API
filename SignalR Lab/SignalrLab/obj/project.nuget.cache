@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "CerHmbAoRVE=",
+  "success": true,
+  "projectFilePath": "D:\\tap\\DOTNET\\DotNet-API\\SignalR Lab\\SignalrLab\\SignalrLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.signalr\\1.2.9\\microsoft.aspnetcore.signalr.1.2.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.AspNetCore.SignalR will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "D:\\tap\\DOTNET\\DotNet-API\\SignalR Lab\\SignalrLab\\SignalrLab.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\tap\\DOTNET\\DotNet-API\\SignalR Lab\\SignalrLab\\SignalrLab.csproj",
+      "libraryId": "Microsoft.AspNetCore.SignalR",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
